@@ -1,5 +1,5 @@
 var WA_NUMBER=''; // e.g. '919XXXXXXXXX' (country code + number, no +)
-var IMG={lamp1:'images/electric-lamp.jpg',dream:'images/dreamcatcher.jpg',lamp3:'images/iron-frame-lamp.jpg',keys:'images/valentine-keychains.jpg',wall:'images/wall-hanging.jpg',frame:'images/customised-wall-hanging.jpg'};
+var IMG={lamp1:'electric-lamp.jpg',dream:'dreamcatcher.jpg',lamp3:'iron-frame-lamp.jpg',keys:'valentine-keychains.jpg',wall:'wall-hanging.jpg',frame:'customised-wall-hanging.jpg'};
 // [category,name,description,price(0=on request),image,tile1,tile2,focus]
 var P=[
 ["lamp","Simple Tealight JarLuminaire","Portrait jar lamp lit by a tealight.",870,null,"#ffcf7a","#5a2a0e"],
