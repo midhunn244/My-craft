@@ -1,4 +1,4 @@
-var WA_NUMBER=''; // e.g. '919XXXXXXXXX' (country code + number, no +)
+var WA_NUMBER=''; +91 99460 32691
 var IMG={lamp1:'electric-lamp.jpg',dream:'dreamcatcher.jpg',lamp3:'iron-frame-lamp.jpg',keys:'valentine-keychains.jpg',wall:'wall-hanging.jpg',frame:'customised-wall-hanging.jpg'};
 // [category,name,description,price(0=on request),image,tile1,tile2,focus]
 var P=[
